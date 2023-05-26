@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "CMU15445-2021-FALL-ghess-p2-refinement\\out\\build\\x64-Debug",
+      "CMU15445-2021-FALL-ghess-p2-refinement\\out\\install\\x64-Debug"
+    ]
+  }
+}
